@@ -1,5 +1,6 @@
 # Test_repo
 Test_repo
+##type repo
 
 ##Introduction
 
